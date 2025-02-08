@@ -4,6 +4,9 @@
 ### Introduction:
 The project aims to achieve high-quality audio classification using image classification techniques. It involves converting audio files into log mel spectrograms and then using various models like ResNet, VGGNet, and CNNs to classify them. We utilize several datasets, starting with the smaller UrbanSound8K dataset, followed by ESC-50 and the Speech Activity Detection dataset. Additionally, we explore trending areas such as few-shot classification, speech audio detection, and speaker diarization.
 
+### final notebook link:
+https://colab.research.google.com/drive/1x5ILlkHIZqd0XmO_7DU3ktzoDjb8bhe5?usp=sharing
+
 ### Table of Contents:
 
 ### Technology Stack:
