@@ -1,23 +1,21 @@
-Turing's Playground Readme Template
+**![Built at WG](https://camo.githubusercontent.com/387b804e633aca8fac6c862d075f1ad3efd1aae413ef634c01f243545b054926/68747470733a2f2f692e706f7374696d672e63632f6e6a434d32346b782f776f632e6a7067)**
 
+### Introduction:
+The project aims to achieve high-quality audio classification using image classification techniques. It involves converting audio files into log mel spectrograms and then using various models like ResNet, VGGNet, and CNNs to classify them. We utilize several datasets, starting with the smaller UrbanSound8K dataset, followed by ESC-50 and the Speech Activity Detection dataset. Additionally, we explore trending areas such as few-shot classification, speech audio detection, and speaker diarization.
 
-Introduction:
-the project aims to achieve high quality audio classification using image classifcation techniques 
-it basically involves converting the audio files into log mel spectrograms and then using various models like resNET or VGGnet and also normal CNNS to classify them 
-we use several datasets for this purposes 
-starting of with the smaller urbansound8k dataset followed by ESC-50 and speech activity detection dataset
-we try out many trending areas such as few shot classification , speech audio detection and speaker diarization
+### Table of Contents:
 
-Table of Contents:
-Technology Stack:
-Google Collab
-Machine Learning
-Contributors:
-Team Name: chill_people
+### Technology Stack:
+1. Google Collab
+2. Machine Learning
 
-Naman Agarwal
-Shourya Mishra
-Akshat Jain
-Made at: 
-![image](https://github.com/user-attachments/assets/ab6c22c7-dc0d-4035-b540-0b37cd9b6c79)
+### Contributors:
+**Team Name: chill_people**
+
+- [Naman Agarwal](#)
+- [Shourya Mishra](#)
+- [Akshat Jain](#)
+
+### Made at:
+**![Turing's Playground]([image_link](https://camo.githubusercontent.com/387b804e633aca8fac6c862d075f1ad3efd1aae413ef634c01f243545b054926/68747470733a2f2f692e706f7374696d672e63632f6e6a434d32346b782f776f632e6a7067))**
 
